@@ -1,0 +1,6 @@
+# Arquivos gerados pelo Code::Blocks
+bin/
+obj/
+*.depend
+*.layout
+*.exe
