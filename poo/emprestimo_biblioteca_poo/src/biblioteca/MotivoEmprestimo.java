@@ -1,0 +1,11 @@
+package biblioteca;
+
+public enum MotivoEmprestimo {
+    EMPRESTIMO_PERMITIDO,
+    LEITOR_INATIVO,
+    EMPRESTIMO_ATRASADO,
+    LIMITE_ATINGIDO,
+    SEM_EXEMPLAR,
+    RESERVADO_PARA_OUTRO,
+    DADOS_INVALIDOS
+}
